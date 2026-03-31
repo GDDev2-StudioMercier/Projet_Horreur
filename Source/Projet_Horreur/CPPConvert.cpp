@@ -5,8 +5,10 @@
 
 CPPConvert::CPPConvert()
 {
+	
 }
 
 CPPConvert::~CPPConvert()
 {
+	
 }
